@@ -1,0 +1,7 @@
+.FjsTM_vF{background:#b2ec8b;grid-area:about}
+.utqPxjoH{background:maroon;grid-area:duty}
+.cfdPunUj{background:#ec8be4;grid-area:job}
+.Lp_t6Iy6,.mIWpEa_1{background:green;grid-area:logo}.mIWpEa_1{background:#000}
+.DaXHcAby{background:#40207a;grid-area:name}
+.fHezu4B8{background:#b2ec8b;grid-area:stack}
+*{margin:0;padding:0;box-sizing:border-box}.LyYl1N16{width:100vw;height:100vh;display:grid;grid-template-areas:"logo name" "logo duty" "stack about" "stack job";grid-template-columns:1fr 2fr}

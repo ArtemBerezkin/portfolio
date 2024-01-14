@@ -1,0 +1,8 @@
+.light {
+    background: green;
+    grid-area:logo
+}
+.dark {
+@extend .light;
+background: black;
+}
